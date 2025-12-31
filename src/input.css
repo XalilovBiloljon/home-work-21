@@ -6,3 +6,17 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.tt1
+{
+    background-image: url("./Fhoto/bg-circles.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tt2
+{
+    background-image: url("./Fhoto/bg-color.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
