@@ -1,22 +1,25 @@
 @import "tailwindcss";
-.tt
-{
+.tt {
     background-image: url("./Fhoto/background\ \(4\).png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.tt1
-{
+
+.tt1 {
     background-image: url("./Fhoto/bg-circles.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.tt2
-{
+
+.tt2 {
     background-image: url("./Fhoto/bg-color.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.btnxurshed {
+    border: 1px solid #FF3F3A;
 }
